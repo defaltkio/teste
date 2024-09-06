@@ -1,0 +1,12 @@
+[
+    {
+        "id": 2,
+        "nome": "Barbeador",
+        "quantidade": 3
+    },
+    {
+        "id": 341234123,
+        "nome": "Helic\u00f3ptero",
+        "quantidade": 200
+    }
+]
